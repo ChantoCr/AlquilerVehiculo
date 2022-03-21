@@ -1,0 +1,109 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AlquilerVehiculo
+</name>
+</assembly>
+<members>
+<member name="T:AlquilerVehiculo.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AlquilerVehiculo.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AlquilerVehiculo.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:AlquilerVehiculo.Alquiler.#ctor">
+ <summary>
+ Constructor vacio del objeto
+ </summary>
+</member>
+<member name="P:AlquilerVehiculo.Alquiler.Placa">
+ <summary>
+ Numero de Placa
+ </summary>
+ <returns>Numero de Placa</returns>
+</member>
+<member name="P:AlquilerVehiculo.Alquiler.GPS">
+ <summary>
+ Si quiere GPS
+ </summary>
+ <returns>GPS</returns>
+</member>
+<member name="P:AlquilerVehiculo.Alquiler.SeguroCompleto">
+ <summary>
+ Si tiene seguro Completo
+ </summary>
+ <returns>Seguro Completo</returns>
+</member>
+<member name="P:AlquilerVehiculo.Alquiler.SeguroBasico">
+ <summary>
+ Si tiene seguro básico
+ </summary>
+ <returns>SeguroBasico</returns>
+</member>
+<member name="P:AlquilerVehiculo.Alquiler.CantPasajeros">
+ <summary>
+ Indica la cantidad de pasajeros
+ </summary>
+ <returns>Cantidad de Pasajeros</returns>
+</member>
+<member name="P:AlquilerVehiculo.Alquiler.TarifaDiaria">
+ <summary>
+ Indica la Tarifa Diaria
+ </summary>
+ <returns>Tarifa Diaria</returns>
+</member>
+<member name="P:AlquilerVehiculo.Alquiler.CantDias">
+ <summary>
+ Indica la Cantidad de Dias
+ </summary>
+ <returns>Cantidad de Dias</returns>
+</member>
+<member name="P:AlquilerVehiculo.Alquiler.NumPasaporte">
+ <summary>
+ Indica el numero de pasaporte del cliente
+ </summary>
+ <returns>Numero de Pasaporte</returns>
+</member>
+<member name="M:AlquilerVehiculo.Alquiler.CostoGPS">
+ <summary>
+ Calcula el Costo del GPS por dia
+ </summary>
+ <returns>Costo GPS</returns>
+</member>
+<member name="M:AlquilerVehiculo.Alquiler.MontoAlquiler">
+ <summary>
+ Calcula el monto de Alquiler
+ </summary>
+ <returns>Monto Alquiler</returns>
+</member>
+<member name="M:AlquilerVehiculo.Alquiler.MontoDescporCapacidad">
+ <summary>
+ Clacula la tarifa de Descuento por la Capacidad
+ </summary>
+ <returns> Monto descuento por Capacidad</returns>
+</member>
+<member name="M:AlquilerVehiculo.Alquiler.MontoSeguro">
+ <summary>
+ Calcula el monto por Seguro
+ </summary>
+ <returns>Monto Seguro</returns>
+</member>
+<member name="M:AlquilerVehiculo.Alquiler.toString">
+ <summary>
+ Este es el metodo toString que devuelve todos los datos
+ </summary>
+ <returns>Todos los datos en String</returns>
+</member>
+</members>
+</doc>

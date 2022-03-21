@@ -1,0 +1,11 @@
+C:\Users\seitr\Desktop\Portafolio\Universidad\yeah\SisibelMontesdeOcaS\obj\Debug\AlquileVehiculo.vbproj.GenerateResource.Cache
+C:\Users\seitr\Desktop\Portafolio\Universidad\yeah\SisibelMontesdeOcaS\bin\Debug\AlquilerVehiculo.exe.config
+C:\Users\seitr\Desktop\Portafolio\Universidad\yeah\SisibelMontesdeOcaS\bin\Debug\AlquilerVehiculo.exe
+C:\Users\seitr\Desktop\Portafolio\Universidad\yeah\SisibelMontesdeOcaS\bin\Debug\AlquilerVehiculo.pdb
+C:\Users\seitr\Desktop\Portafolio\Universidad\yeah\SisibelMontesdeOcaS\bin\Debug\AlquilerVehiculo.xml
+C:\Users\seitr\Desktop\Portafolio\Universidad\yeah\SisibelMontesdeOcaS\obj\Debug\AlquileVehiculo.vbprojResolveAssemblyReference.cache
+C:\Users\seitr\Desktop\Portafolio\Universidad\yeah\SisibelMontesdeOcaS\obj\Debug\AlquilerVehiculo.Form1.resources
+C:\Users\seitr\Desktop\Portafolio\Universidad\yeah\SisibelMontesdeOcaS\obj\Debug\AlquilerVehiculo.Resources.resources
+C:\Users\seitr\Desktop\Portafolio\Universidad\yeah\SisibelMontesdeOcaS\obj\Debug\AlquilerVehiculo.exe
+C:\Users\seitr\Desktop\Portafolio\Universidad\yeah\SisibelMontesdeOcaS\obj\Debug\AlquilerVehiculo.xml
+C:\Users\seitr\Desktop\Portafolio\Universidad\yeah\SisibelMontesdeOcaS\obj\Debug\AlquilerVehiculo.pdb
